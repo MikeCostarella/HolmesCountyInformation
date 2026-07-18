@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "ISSG";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Holmes County Government", category: "Government", subcategory: "County", url: "https://www.co.holmes.oh.us/", description: "Official Holmes County government portal with departments and services" },
